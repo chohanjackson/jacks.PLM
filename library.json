@@ -23,12 +23,12 @@
     "read_status": false,
     "added_data": "2025-03-11  08:55:60"
   },
-    {
-      "title":"python crash course",
-    "author": "Eric Matthes",
-    "publication_year": 2019,
+  {
+      "title":" Effective python ",
+    "author": "Brett slatkin",
+    "publication_year": 2020,
     "genre": "Programing",
-    "read_status": false,
-    "added_data": "2025-03-11  08:10:37"
-    },  
+    "read_status": true,
+    "added_data": "2025-03-11  08:60:55"
+  },  
 ]
